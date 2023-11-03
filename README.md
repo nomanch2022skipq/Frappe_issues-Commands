@@ -21,4 +21,18 @@ I want to install library_management and the command is below.
 bench new-app library_management
 ```
 
+<br>
+
+### Create an Site on the bench.
+
+<br>
+
+I want to install library.test site and the command is below.
+
+<br>
+
+```
+bench new-site library.test
+```
+
 
