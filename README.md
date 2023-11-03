@@ -13,6 +13,7 @@ bench init frappe-bench --frappe-branch version-14
 <br>
 I want to install library_management and the command is below.
 <br>
+
 ```
 bench new-app library_management
 ```
