@@ -45,3 +45,12 @@ bench new-site library.test
 bench use library.com
 ```
 
+<br>
+
+### If you want to Developer Mode
+
+<br>
+
+```
+bench set-config -g developer_mode true
+```
