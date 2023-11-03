@@ -23,11 +23,11 @@ bench new-app library_management
 
 <br>
 
-### Create an Site on the bench.
+### Create a Site on the bench.
 
 <br>
 
-I want to install library.test site and the command is below.
+I want to install the library.com site and the command is below.
 
 <br>
 
@@ -35,4 +35,13 @@ I want to install library.test site and the command is below.
 bench new-site library.test
 ```
 
+<br>
+
+### Set current site for bench
+
+<br>
+
+```
+bench use library.com
+```
 
