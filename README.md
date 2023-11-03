@@ -37,6 +37,18 @@ bench new-site library.test
 
 <br>
 
+
+### After Add site You need add Custom App < Library Management app >
+
+<br>
+
+```
+bench --site library.test install-app library_management
+```
+
+<br>
+
+
 ### Set current site for bench
 
 <br>
