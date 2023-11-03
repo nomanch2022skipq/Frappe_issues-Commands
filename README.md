@@ -12,7 +12,7 @@ bench init frappe-bench --frappe-branch version-14
 ### Create an App on the bench.
 <br>
 I want to install library_management and the command is below.
-
+<br>
 ```
 bench new-app library_management
 ```
